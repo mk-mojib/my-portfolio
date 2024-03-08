@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.9b0d3dfd.css",
+    "main.js": "/my-portfolio/static/js/main.09f0788a.js",
+    "static/js/453.acca0757.chunk.js": "/my-portfolio/static/js/453.acca0757.chunk.js",
+    "static/media/office365.png": "/my-portfolio/static/media/office365.a5e80bb0fec3e5f361f6.png",
+    "static/media/Git.png": "/my-portfolio/static/media/Git.8322c082f223fd807d36.png",
+    "static/media/github.png": "/my-portfolio/static/media/github.3c672c66b8ddd781201f.png",
+    "static/media/bootstrap.webp": "/my-portfolio/static/media/bootstrap.9665c440214bdf00146d.webp",
+    "static/media/react.webp": "/my-portfolio/static/media/react.7a03928dd72415fb90fd.webp",
+    "static/media/api.webp": "/my-portfolio/static/media/api.7447d025ca6c9ab82dd4.webp",
+    "static/media/html-css.webp": "/my-portfolio/static/media/html-css.505c862127086f7438ae.webp",
+    "static/media/redux.webp": "/my-portfolio/static/media/redux.d21ca82426714a3afeb5.webp",
+    "static/media/nodejs.webp": "/my-portfolio/static/media/nodejs.5fc96aac268088c7f2a1.webp",
+    "static/media/javascript.webp": "/my-portfolio/static/media/javascript.c57f41f2ad31567fc0f8.webp",
+    "static/media/expressjs.webp": "/my-portfolio/static/media/expressjs.684c79da999db0448f93.webp",
+    "static/media/mongodb.webp": "/my-portfolio/static/media/mongodb.95fd0767a77845879488.webp",
+    "static/media/tailwind.webp": "/my-portfolio/static/media/tailwind.8e674da6fb41667fbd39.webp",
+    "index.html": "/my-portfolio/index.html",
+    "main.9b0d3dfd.css.map": "/my-portfolio/static/css/main.9b0d3dfd.css.map",
+    "main.09f0788a.js.map": "/my-portfolio/static/js/main.09f0788a.js.map",
+    "453.acca0757.chunk.js.map": "/my-portfolio/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b0d3dfd.css",
+    "static/js/main.09f0788a.js"
+  ]
+}
