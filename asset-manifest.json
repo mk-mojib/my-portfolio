@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.9b0d3dfd.css",
-    "main.js": "/my-portfolio/static/js/main.09f0788a.js",
+    "main.css": "/my-portfolio/static/css/main.812efe6d.css",
+    "main.js": "/my-portfolio/static/js/main.ed42aba9.js",
     "static/js/453.acca0757.chunk.js": "/my-portfolio/static/js/453.acca0757.chunk.js",
     "static/media/office365.png": "/my-portfolio/static/media/office365.a5e80bb0fec3e5f361f6.png",
     "static/media/Git.png": "/my-portfolio/static/media/Git.8322c082f223fd807d36.png",
@@ -17,12 +17,12 @@
     "static/media/mongodb.webp": "/my-portfolio/static/media/mongodb.95fd0767a77845879488.webp",
     "static/media/tailwind.webp": "/my-portfolio/static/media/tailwind.8e674da6fb41667fbd39.webp",
     "index.html": "/my-portfolio/index.html",
-    "main.9b0d3dfd.css.map": "/my-portfolio/static/css/main.9b0d3dfd.css.map",
-    "main.09f0788a.js.map": "/my-portfolio/static/js/main.09f0788a.js.map",
+    "main.812efe6d.css.map": "/my-portfolio/static/css/main.812efe6d.css.map",
+    "main.ed42aba9.js.map": "/my-portfolio/static/js/main.ed42aba9.js.map",
     "453.acca0757.chunk.js.map": "/my-portfolio/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b0d3dfd.css",
-    "static/js/main.09f0788a.js"
+    "static/css/main.812efe6d.css",
+    "static/js/main.ed42aba9.js"
   ]
 }
