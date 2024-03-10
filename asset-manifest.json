@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.812efe6d.css",
+    "main.css": "/my-portfolio/static/css/main.e657f27a.css",
     "main.js": "/my-portfolio/static/js/main.ed42aba9.js",
     "static/js/453.acca0757.chunk.js": "/my-portfolio/static/js/453.acca0757.chunk.js",
     "static/media/office365.png": "/my-portfolio/static/media/office365.a5e80bb0fec3e5f361f6.png",
@@ -17,12 +17,12 @@
     "static/media/mongodb.webp": "/my-portfolio/static/media/mongodb.95fd0767a77845879488.webp",
     "static/media/tailwind.webp": "/my-portfolio/static/media/tailwind.8e674da6fb41667fbd39.webp",
     "index.html": "/my-portfolio/index.html",
-    "main.812efe6d.css.map": "/my-portfolio/static/css/main.812efe6d.css.map",
+    "main.e657f27a.css.map": "/my-portfolio/static/css/main.e657f27a.css.map",
     "main.ed42aba9.js.map": "/my-portfolio/static/js/main.ed42aba9.js.map",
     "453.acca0757.chunk.js.map": "/my-portfolio/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.812efe6d.css",
+    "static/css/main.e657f27a.css",
     "static/js/main.ed42aba9.js"
   ]
 }
